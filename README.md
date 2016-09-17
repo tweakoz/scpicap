@@ -2,7 +2,9 @@
 captures screenshots from SCPI test instruments
 
 very WIP, plenty of TODO's...
+
 Not ready for general use.
+
 Just getting it out there before I forget.
 
 example:
