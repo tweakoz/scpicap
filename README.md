@@ -7,6 +7,10 @@ Not ready for general use.
 
 Just getting it out there before I forget.
 
+only tested (so far) with:
+
+https://www.rigolna.com/products/digital-oscilloscopes/ds1000Z/ds1074z/
+
 example:
 
 ![example capture](/captures/out.bmp)
